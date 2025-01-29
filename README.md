@@ -1,5 +1,5 @@
-# TEMPLATE
-This repository contains the code used in our publication: "Integration of single-cell multi-modal data enhances cell-type identification and marker detection in human reference cell atlas".
+# Benchmark framework & mBDRC generation
+This repository contains the code used in our publication: "Systematic evaluation of single-cell multimodal data integration for comprehensive human reference atlas".
 
 ## Citation
 If you use this code, please cite:
