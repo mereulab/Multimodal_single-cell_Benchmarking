@@ -3,7 +3,7 @@ This repository contains the code for reproducibility of results in our publicat
 
 ![Project overview](/Project_scheme.png)
 
-Following depicted guidelines we generated a unique multimodal benchmarking dataset for renal cortex characterization (mBDRC). In house developed interpretable machine learning tool for reference-based cell-type classification, scOMM ([single-cell Omics Multimodal Mapping](https://github.com/mereulab/scOMM)), has been used to anchor mBDRC to previous human kidney references to produce two layer of annotation. This dataset can be found in the CZ CELLxGENE Discover platform (link).
+Following depicted guidelines we generated a unique multimodal benchmarking dataset for renal cortex characterization (mBDRC). In house developed interpretable machine learning tool for reference-based cell-type classification, scOMM ([single-cell Omics Multimodal Mapping](https://github.com/mereulab/scOMM)), has been used to anchor mBDRC to previous human kidney references to produce two layer of annotation. This dataset will be accessible in the CZ CELLxGENE Discover platform.
 
 ![Dataset](/mBDRC.png)
 
