@@ -8,4 +8,4 @@ Following depicted guidelines we generated a unique multimodal benchmarking data
 ![Dataset](/mBDRC.png)
 
 ## Citation
-If you use this code, please cite:
+
