@@ -8,4 +8,4 @@ Following depicted guidelines we generated a unique multimodal benchmarking data
 ![Dataset](/mBDRC.png)
 
 ## Citation
-
+Acera-Mateos, M. et al. Systematic evaluation of single-cell multimodal data integration for comprehensive human reference atlas. bioRxiv https://doi.org/10.1101/2025.03.06.637075 (2025).
